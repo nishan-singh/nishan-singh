@@ -1,3 +1,4 @@
+<h1 align="center">Hi!, I'm Nishan. </h1>
 <h3 align="center">A passionate frontend developer from India</h3> <br /><br />
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Coder Gif" width="400px"/>
