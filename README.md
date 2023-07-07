@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="![image](https://github.com/nishan-singh/nishan-singh/assets/75458352/aa41239a-9508-44b5-a424-2d8c124ee00b)" alt="Animated Coder Gif" />
+<img src="(https://github.com/nishan-singh/nishan-singh/assets/75458352/aa41239a-9508-44b5-a424-2d8c124ee00b)" alt="Animated Coder Gif" width="400px"/>
 
 - 🔭 I’m currently working on [Pro-Movies](pro-movies.nishan-singh.com)
 
