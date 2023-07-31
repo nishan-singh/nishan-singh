@@ -5,7 +5,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Coder Gif" width="400px"/>
 
-- 🔭 I’m currently working on [Pro-Movies](https://pro-movies.nishan-singh.com)
+- 🔭 I’m currently working on [CRM](https://crm.nishan-singh.com)
 
 - 👨‍💻 All of my projects are available at [nishan-singh.com](https://nishan-singh.com)
 
