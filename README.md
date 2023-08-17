@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [nishan-singh.com](https://nishan-singh.com)
 
-- 💬 Ask me about **Angular, React and JavaScript**
+- 💬 Ask me about **Angular, and JavaScript**
 
 - 📫 How to reach me **contact@nishan-singh.com**
 
