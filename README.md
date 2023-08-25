@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CRM](https://crm.nishan-singh.com)
 
-- 👨‍💻 All of my projects are available at [nishan-singh.com](https://nishan-singh.com)
+- 👨‍💻 All of my current projects are available at [nishan-singh.com](https://nishan-singh.com)
 
 - 💬 Ask me about **Angular and <br /> JavaScript**
 
