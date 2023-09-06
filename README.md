@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer,</h3>
 <h3 align="center">Currently based in Leipzig, Germany</h3>
 <br /><br />
-
+![image title](https://rushter.com/counter.svg)
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Coder Gif" width="400px"/>
 
 - 🔭 I’m currently working on [CRM](https://crm.nishan-singh.com)
