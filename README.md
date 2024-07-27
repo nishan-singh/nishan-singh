@@ -4,8 +4,6 @@
 <br /><br />
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Coder Gif" width="350px"/>
 
-- 🔭 I’m currently working on [Organic Corner](https://organic-corner.nishan-singh.com)
-
 - 👨‍💻 All of my current projects are available at [nishan-singh.com](https://nishan-singh.com)
 
 - 💬 Ask me about **Angular and <br /> JavaScript**
