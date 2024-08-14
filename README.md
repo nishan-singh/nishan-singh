@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Angular and <br /> JavaScript**
 
-- 📫 How to reach me **contact@nishan-singh.com**
+- 📫 How to reach me **singh007nishan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
